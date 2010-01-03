@@ -1,0 +1,4 @@
+small program for sendhtml emails
+
+module1.py its the main program needs mailer module (easy_install mailer)
+
